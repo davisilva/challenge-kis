@@ -1,6 +1,7 @@
 # Selenium Page Object Model with Python 
 
 This was a challenge made using Page Object Model with Python to test The Greatest Factorial Calculator!
+Recommended to be runned on PyCharm
 #### If you want to run all tests, you should go to Test/TestSuite and type: 
 ```sh
 
